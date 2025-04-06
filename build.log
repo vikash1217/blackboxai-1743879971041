@@ -1,0 +1,22 @@
+
+> portfolio@0.0.0 build
+> ng build --configuration=production
+
+Workspace extension with invalid name (defaultProject) found.
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial Chunk Files           | Names         |  Raw Size | Estimated Transfer Size
+main.be23be9a7fb43c88.js      | main          |  95.05 kB |                28.29 kB
+polyfills.02326f1e44016e57.js | polyfills     |  35.40 kB |                10.98 kB
+runtime.44c754cb72c37ada.js   | runtime       |   1.06 kB |               601 bytes
+styles.b8a2ae6479dcfc4c.css   | styles        | 100 bytes |                68 bytes
+
+| Initial Total | 131.61 kB |                39.92 kB
+
+Build at: 2025-04-06T10:15:44.284Z - Hash: 20ba194e2580a71e - Time: 9729ms
